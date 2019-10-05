@@ -1,2 +1,4 @@
 Currently contains:
-CSG Event Automation
+CSG Event Listener
+CSG Event Creator
+TODO: CSG Event to Google Calendar
